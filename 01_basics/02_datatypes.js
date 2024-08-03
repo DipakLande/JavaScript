@@ -24,3 +24,4 @@ let isLoggedIn = false
 console.log(typeof "Dipak")
 console.log(typeof age)
 console.log(typeof null)
+
